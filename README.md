@@ -1,17 +1,23 @@
 # :Star Pattern Printing:
-
-This repository contains Python code that drew various star patterns, making it easier for learners to understand and enhance the programming skills. It served as a valuable resource for honing logic and creativity through code.
+Star pattern printing refers to the practice of generating and printing patterns of stars or other characters in a specific arrangement using a programming language, such as Python, Java, or C++. These patterns often have symmetrical or decorative shapes and are created through loops, conditionals, and other programming constructs.
 
 <div id="header" align="center">
     <img src="https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/753054c6-7e98-496d-85ef-824fbe7f9e3d"  height="350" width="800"/>
 </div>
+
+## Description:
+This repository contains Python code that generates various star patterns based on user integer input (e.g., 7), providing an accessible way for learners to enhance their programming skills. It serves as a valuable resource for developing logic and creativity through code.
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Aim:
 
 The aim of this project is to utilize star pattern printing as a valuable tool to facilitate learning, reinforce fundamental programming concepts, and enhance logical thinking. It seeks to improve problem-solving skills, foster creativity, and encourage algorithmic thinking among learners.
 
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/10694e29-1a71-4322-ac9f-d606d303ca85"  height="300" width="400"/>
+    <img src="https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/52ce5a3f-27c2-4a05-9fce-369638778e1a"  height="200" width="400"/>
+</div>
+
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/4012ab74-66cd-46c4-9117-6d40dd20d3d5"  height="300" width="400"/>
     <img src="https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/af4f3349-d04c-4359-83d5-06a46af6e77c"  height="300" width="400"/>
     <img src="https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/288f3e72-16a1-40cb-8c04-35657136ca3f"  height="300" width="400"/>
     <img src="https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/5b800dee-e411-4130-a531-b4bd7b657782"  height="300" width="400"/>
