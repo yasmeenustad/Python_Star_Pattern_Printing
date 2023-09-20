@@ -10,6 +10,7 @@ This repository contains Python code that drew various star patterns, making it 
 
 The aim of this project is to utilize star pattern printing as a valuable tool to facilitate learning, reinforce fundamental programming concepts, and enhance logical thinking. It seeks to improve problem-solving skills, foster creativity, and encourage algorithmic thinking among learners.
 
+![Screenshot 2023-09-19 210840](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/10694e29-1a71-4322-ac9f-d606d303ca85)
 ![Screenshot 2023-09-19 210850](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/af4f3349-d04c-4359-83d5-06a46af6e77c)
 ![Screenshot 2023-09-19 210855](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/5b800dee-e411-4130-a531-b4bd7b657782)
 ![Screenshot 2023-09-19 210858](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/fb122855-fee0-481a-b726-4fde6f75fa06)
@@ -19,6 +20,9 @@ The aim of this project is to utilize star pattern printing as a valuable tool t
 ![Screenshot 2023-09-19 210929](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/c19a2c03-df23-4445-8fd1-e7bdfd148c27)
 ![Screenshot 2023-09-19 210953](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/7849bf9a-6719-43bf-b3f8-a75e34645d2d)
 ![Screenshot 2023-09-19 210958](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/3dd93fc9-c405-4955-b3d4-319ee11a7773)
+![Screenshot 2023-09-19 211002](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/d1f51635-b878-444b-975c-d1ad48aabe6e)
+![Screenshot 2023-09-19 211006](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/a3fbce32-c9f6-4bac-a609-fa81850a1bda)
+![Screenshot 2023-09-20 120723](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/07ddae32-5062-47ed-ba12-0d34778cf6bd)
 ![Screenshot 2023-09-19 211009](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/99fc86a5-d7e6-4942-9fbc-34c6deab48ac)
 
 ![Screenshot 2023-09-19 211023](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/a178bdf9-9c52-4566-b44e-688cc00ab1e6)
