@@ -16,11 +16,15 @@ The aim of this project is to utilize star pattern printing as a valuable tool t
 ![Screenshot 2023-09-19 210855](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/5b800dee-e411-4130-a531-b4bd7b657782)
 ![Screenshot 2023-09-19 210858](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/8ccbdd47-2c74-4ec7-aa14-1d08b8824f14)
 ![Screenshot 2023-09-19 210907](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/36e139f9-4e72-4e41-a704-c4f187be44af)
-
 ![Screenshot 2023-09-19 210909](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/032df233-0672-4e87-9031-16353c0c32bf)
 ![Screenshot 2023-09-19 210915](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/dff761f4-2e1a-4aac-936e-b8e6647ce86f)
 ![Screenshot 2023-09-19 210919](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/ee3fad5a-5ec2-4cb4-b716-c8fc7322c3c6)
+![Screenshot 2023-09-19 210922](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/bd07581f-aef5-412a-b748-c783804e868a)
+![Screenshot 2023-09-19 210926](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/2b106217-2648-417f-a4ba-070ea027f281)
 ![Screenshot 2023-09-19 210929](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/c19a2c03-df23-4445-8fd1-e7bdfd148c27)
+![Screenshot 2023-09-20 095108](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/4f06ff89-1b90-4b6d-b903-74f965ad4784)
+
+
 ![Screenshot 2023-09-19 210953](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/7849bf9a-6719-43bf-b3f8-a75e34645d2d)
 ![Screenshot 2023-09-19 210958](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/3dd93fc9-c405-4955-b3d4-319ee11a7773)
 ![Screenshot 2023-09-19 211002](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/d1f51635-b878-444b-975c-d1ad48aabe6e)
@@ -40,7 +44,7 @@ The aim of this project is to utilize star pattern printing as a valuable tool t
 ![Screenshot 2023-09-19 211129](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/b21e5a48-fbae-4407-8965-9909d9b21340)
 ![Screenshot 2023-09-19 211140](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/e4bd2c84-a133-418e-92a4-569238d56471)
 ![Screenshot 2023-09-19 211144](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/70f593a0-15ac-4e84-935b-f8e6823df68a)
-![Screenshot 2023-09-20 095108](https://github.com/yasmeenustad/Python_Star_Pattern_Printing/assets/112754746/7ee64244-1159-423a-9349-984a89df7044)
+
 
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
 
